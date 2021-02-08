@@ -1,0 +1,6 @@
+__pycache__/
+.mypy_cache/
+build/
+dist/
+serial_over_tcp/
+serial_over_tcp.zip
